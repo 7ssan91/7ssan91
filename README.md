@@ -24,16 +24,20 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ssan91&layout=compact&langs_count=7&theme=radical&hide_border=true" />
-</div>
-
----
 ### 🔥 Recent GitHub Activity
-[![Ahmed Hassan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7ssan91&theme=react-dark)](https://github.com/7ssan91)
+[![Ahmed Hassan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7ssan91&theme=react-dark&area=true&custom_title=Ahmed's%20Monthly%20Contribution%20Activity)](https://github.com/7ssan91)
+
+### 📊 GitHub Stats
+
+![Ahmed Hassan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical&count_private=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ssan91&theme=dark)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=darkhub)](https://github.com/7ssan91)
 
 ### ⚡ Current Focus
 
