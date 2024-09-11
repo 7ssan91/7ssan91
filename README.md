@@ -24,21 +24,6 @@
 
 ---
 
-### 🔥 Recent GitHub Activity
-[![Ahmed Hassan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7ssan91&theme=react-dark&area=true&custom_title=Ahmed's%20Monthly%20Contribution%20Activity)](https://github.com/7ssan91)
-
-### 📊 GitHub Stats
-
-![Ahmed Hassan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical&count_private=true)
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ssan91&theme=dark)
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=darkhub)](https://github.com/7ssan91)
-
 ### ⚡ Current Focus
 
 - 🌱 Learning **Advanced TypeScript** and **Web Performance Optimization**
@@ -60,7 +45,22 @@
 - 🛠️ Contributed to **open-source projects**, including UI libraries and frontend tooling.
 
 ---
+### 🔥 Recent GitHub Activity
+[![Ahmed Hassan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7ssan91&theme=react-dark)](https://github.com/7ssan91)
 
+### 📊 GitHub Stats
+
+![Ahmed Hassan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical&count_private=true)
+
+### 🔥 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=7ssan91&theme=dark)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=darkhub)](https://github.com/7ssan91)
+
+---
 ### 📫 How to Reach Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ssan91/)
