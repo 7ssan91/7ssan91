@@ -18,7 +18,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=darkhub&column=4&rank=SECRET,SSS,AAA,AA,A,B)](https://github.com/7ssan91)
+[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=onestar&column=4&rank=SECRET,SSS,AAA,AA,A,B,C&&animation=true)](https://github.com/7ssan91)
 
 ---
 
@@ -98,5 +98,5 @@ When I’m not coding, you’ll find me exploring the latest tech trends, contri
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
