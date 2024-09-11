@@ -45,12 +45,6 @@
 - 🛠️ Contributed to **open-source projects**, including UI libraries and frontend tooling.
 
 ---
-### 🔥 Recent GitHub Activity
-[![Ahmed Hassan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7ssan91&theme=react-dark)](https://github.com/7ssan91)
-
-### 📊 GitHub Stats
-
-![Ahmed Hassan's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical&count_private=true)
 
 ### 🔥 Contribution Streak
 
