@@ -32,6 +32,8 @@
 </div>
 
 ---
+### 🔥 Recent GitHub Activity
+[![Ahmed Hassan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=7ssan91&theme=react-dark)](https://github.com/7ssan91)
 
 ### ⚡ Current Focus
 
