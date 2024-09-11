@@ -18,7 +18,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=darkhub)](https://github.com/7ssan91)
+[![trophy](https://github-profile-trophy.vercel.app/?username=7ssan91&theme=darkhub&column=4&rank=SECRET,SSS,AAA,AA,A,B)](https://github.com/7ssan91)
 
 ---
 
