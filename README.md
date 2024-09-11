@@ -71,6 +71,3 @@ When I’m not coding, you’ll find me exploring the latest tech trends, contri
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
-</div>
