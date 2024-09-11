@@ -1,59 +1,74 @@
 # Hi there! 👋 I'm Ahmed Hassan
 
-I'm a **Front-End Engineer** with over 7 years of experience in designing and implementing high-impact user interfaces for various web applications. I have a strong focus on creating responsive and intuitive designs, and I specialize in modern web technologies.
+🚀 **Front-End Engineer** | Building modern and responsive web applications for over 7 years. Specializing in **React**, **Angular**, and **Next.js**.
 
-- 🌱 I’m currently working at **Floward** as a Senior Front-End Engineer
-- 🔭 I’m currently involved in projects using **React, Next.js, and Algolia Search Integration**
-- ⚡ Fun fact: I'm always keeping up with industry trends and open-source contributions!
+🌍 Based in **Asyut, Egypt** | Working with global teams on impactful projects.
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
-- **Languages**: HTML, CSS (SAAS), JavaScript
-- **Frameworks**: Angular (+2), React, Next.js, Bootstrap, Tailwind, Material UI, PrimeNG
-- **Tools**: StoryBook, Unit Testing, Git, GitHub
-- **Other Skills**: Cross-browser compatibility, Front-end performance optimization
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
-
-### 📚 Education
-
-- **Full Stack Development Diploma**  
-  Information Technology Institute (ITI), 2016-2017
-
-- **Bachelor of Information Technology**  
-  Misr University for Science and Technology (MUST), 2008-2013
-
----
-
-### 💼 Work Experience
-
-#### **Senior Front-End Engineer** | Floward (2019 - Present)
-- Migrated Floward’s web app from Angular to React, ensuring smooth transitions for both users and developers.
-- Integrated **Algolia search functionality** and collaborated with back-end developers and UX/UI teams.
-- Contributed to the **Map Master project** and helped transform it into an open-source solution.
-
-#### **Front-End Engineer** | Approved Systems (2017 - 2019)
-- Crafted engaging and intuitive user interfaces for various web applications.
-- Ensured cross-browser compatibility and front-end performance optimization.
-
-#### **Junior Front-End Engineer** | Novavera Group (2015 - 2017)
-- Built responsive landing pages using HTML, CSS, and JavaScript.
-- Optimized websites for SEO and accessibility.
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7ssan91&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=7ssan91&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ssan91&layout=compact&langs_count=7&theme=radical&hide_border=true" />
+</div>
 
 ---
 
-### 🌐 Connect with me:
+### ⚡ Current Focus
+
+- 🌱 Learning **Advanced TypeScript** and **Web Performance Optimization**
+- 🔭 Exploring **Server-Side Rendering (SSR)** with **Next.js**
+- 🛠️ Building new tools and components for scalable frontend architectures
+
+---
+
+### ✨ Projects
+
+- **Map Master Project**: Led the frontend development for an internal system project at **Floward**, transforming it into an open-source solution. Integrated with **Algolia Search** for enhanced user experience.
+- **E-commerce Platforms**: Developed responsive interfaces for various online stores, ensuring compatibility across browsers and devices.
+
+---
+
+### 🚀 Achievements
+
+- 🏆 Migrated **Floward's** web app from Angular to React, improving performance and maintainability.
+- 🛠️ Contributed to **open-source projects**, including UI libraries and frontend tooling.
+
+---
+
+### 📫 How to Reach Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/7ssan91/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7ssan91)
 [![UpWork](https://img.shields.io/badge/UpWork-green?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f5699e5bd980aa20)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7ssan91)
 
+---
+
+### 🎮 Fun Fact:
+
+When I’m not coding, you’ll find me exploring the latest tech trends, contributing to open-source, or enjoying a good video game 🎮.
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" />
+</div>
