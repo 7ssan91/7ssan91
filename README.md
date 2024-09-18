@@ -50,7 +50,7 @@
 
 ### 🧑‍💻 Part-Time Projects
 
-#### **Kibreet** - Remote (Backend Engineer - Part Time) | 01/2023 – 05/2023
+#### **Kibreet** - Remote (Front-End Engineer - Part Time) | 01/2023 – 05/2023
 - Designed the entire front-end architecture with **React** and **Redux Toolkit** for smooth state management.
 - Integrated a responsive UI with clean, scalable components following **Material UI** design principles.
 - Worked on real-time data handling with **Redux** and **API** integration for real-time authorization and validation.
