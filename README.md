@@ -30,8 +30,13 @@
 
 ### 💼 Full-Time Work Experience
 
-#### **Floward** - Senior Front-End Engineer | 2019 – Present
-- Led the migration of **Floward’s web app** from Angular to **React**, improving performance, scalability, and maintainability.
+#### **Webook.com** - Senior Front-End Engineer|| 2024 – Present
+- Developed user-friendly web applications utilizing React and modern web technologies to enhance user experience and performance, improving performance, scalability, and maintainability.
+- Collaborating with UX/UI designers to create visually appealing and responsive interfaces.
+- Implementing best practices for code quality, performance optimization, and cross-browser compatibility.
+
+#### **Floward** - Senior Front-End Engineer|| 2019 – 2024
+- Contributed in the migration of **Floward’s web app** from Angular to **React**, improving performance, scalability, and maintainability.
 - Integrated **Redux Toolkit** to streamline state management and reduce boilerplate across multiple modules.
 - Worked closely with the backend team to implement the **Algolia search integration**, resulting in a significant improvement in search response times.
 - Contributed to the **Map Master project**, transforming it into an open-source solution used by various teams.
